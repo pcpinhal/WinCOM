@@ -1,0 +1,10 @@
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\bin\Debug\WinCOM.exe.config
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\bin\Debug\WinCOM.exe
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\bin\Debug\WinCOM.pdb
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.csprojResolveAssemblyReference.cache
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.Form1.resources
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.Properties.Resources.resources
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.csproj.GenerateResource.Cache
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.exe
+D:\OneDrive\Área de Trabalho\WinCOM\WinCOM\obj\Debug\WinCOM.pdb
